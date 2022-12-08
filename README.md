@@ -6,7 +6,7 @@
 ### <div align="center">I'm Krishnadev, a  full-stack MERN developer 👨‍💻 with a passion for programming and a curious mind. 🚀😎</div>  
   
 
-- 🔭 I’m currently Volunteering on [simuVerse](https://github.com/GmBodhi/SimuVerse-temp)  
+- 🔭 I’m currently Volunteering as a full Stack developer at The Tann Mann Foundation (Non-profitable organization)
   
 
 - 🌱 I’m currently learning MERN STACK  
