@@ -1,25 +1,19 @@
-<div align="center">
-<img src="https://media.tenor.com/X3jJ_r78JlcAAAAM/bobs-burger-tina-belcher.gif" align="center" style="width: 100%" />
-</div>  
-  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is krishnadev
+==================================================================================================================================
 
-### <div align="center">I'm Krishnadev, a  full-stack MERN developer 👨‍💻 with a passion for programming and a curious mind. 🚀😎</div>  
-  
+I am a FullStack Web Developer
+------------------------------
 
-- 🔭 I’m currently Volunteering as a full Stack developer at The Tann Mann Foundation (Non-profitable organization)
-  
+Currently, I am 19 years old. Self-taught web developer specializing in the Mern stack with a year of experience working on real-world projects.When I encountered errors, stackoverflow was always my best friend.Using the Mern stack for real world projects is something I'm passionate about, but I'm also curious about learning new technologies
 
-- 🌱 I’m currently learning MERN STACK  
-  
+* 🌍  I'm based in kerala, India
+* ✉️  You can contact me at [krishnadevv12@gmail.com](mailto:krishnadevv12@gmail.com)
+* 🧠  I'm learning MERN stack developement
+* 🤝  I'm open to collaborating on open source projects
+* ⚡  I’m currently Volunteering as a full Stack developer at The Tann Mann Foundation (Non-profitable organization)
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚽ I love Fooball  
-  
-
-<br/>  
-
+<a href="https://www.github.com/krishnadev7" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -80,30 +74,18 @@
 </div>  
   
 
-<br/>  
 
+### Badges
+  <div align='center'>
+<b>My GitHub Stats</b>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=krishnadev7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<a href="http://www.github.com/krishnadev7"><img src="https://github-readme-stats.vercel.app/api?username=krishnadev7&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="krishnadev7's GitHub stats" /></a>
 
-<br/>  
+<a href="http://www.github.com/krishnadev7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnadev7&stroke=a855f7&background=0f172a&ring=f97316&fire=f97316&currStreakNum=a855f7&currStreakLabel=f97316&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
+<a href="http://www.github.com/krishnadev7"><img src="https://activity-graph.herokuapp.com/graph?username=krishnadev7&bg_color=0f172a&color=a855f7&line=ef4444&point=a855f7&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<a href="https://github.com/krishnadev7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadev7&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    </div>
   
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=krishnadev7&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
+  <div align="center"> <img src="https://komarev.com/ghpvc/?username=krishnadev7&&style=flat-square" align="center" /> </div>
