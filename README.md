@@ -51,9 +51,7 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krishnadev7&theme=github-compact)](https://github.com/krishnadev7/github-readme-activity-graph)
 
-  <div>
+
    ![Snake animation](https://github.com/krishnadev7/krishnadev7/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
   
   <div align="center"> <img src="https://komarev.com/ghpvc/?username=krishnadev7&&style=flat-square" align="center" /> </div>
