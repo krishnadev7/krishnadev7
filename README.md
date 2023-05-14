@@ -10,8 +10,7 @@ Currently, I am 19 years old. Self-taught web developer specializing in the Mern
 * ✉️  You can contact me at [krishnadevv12@gmail.com](mailto:krishnadevv12@gmail.com)
 * 🧠  I'm learning MERN stack developement
 * 🤝  I'm open to collaborating on open source projects
-* ⚡  I’m currently Volunteering as a full Stack developer at The Tann Mann Foundation (Non-profitable organization)
-* 🔭  I’m currently working on [Banao Technologies (Internship)](https://www.banao.tech/)
+
 
 <a href="https://www.github.com/krishnadev7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
