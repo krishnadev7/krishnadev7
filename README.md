@@ -21,6 +21,14 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
 <br/>  
 <br/> 
 
+<h1 align="center">My stackoverflow Profile</h1>
+
+<div align="center">
+  
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=15206662)
+
+</div>
+
 <h1 align="center">Connect with me:</h1>
 <br/> 
 <p align="center">
@@ -28,7 +36,6 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
 <a href="https://linkedin.com/in/krishnadevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnadevv" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15206662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15206662" height="30" width="40" /></a>
 <a href="https://instagram.com/krishnadev_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnadev_v" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krishnadevv12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishnadevv12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krishnadev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishnadev7" height="30" width="40" /></a>
 </p>  
 <br/> 
@@ -47,10 +54,5 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
   
 <a href="https://github.com/krishnadev7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadev7&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krishnadev7&theme=github-compact)](https://github.com/krishnadev7/github-readme-activity-graph)
-
-
-   ![Snake animation](https://github.com/krishnadev7/krishnadev7/blob/output/github-contribution-grid-snake.svg)
   
   <div align="center"> <img src="https://komarev.com/ghpvc/?username=krishnadev7&&style=flat-square" align="center" /> </div>
