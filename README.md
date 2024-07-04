@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a FullStack Web Developer
 ------------------------------
-
-Currently, I am 20 years old. Self-taught web developer specializing in the Mern stack with a year of experience working on real-world projects.When I encountered errors, stackoverflow was always my best friend.Using the Mern stack for real world projects is something I'm passionate about, but I'm also curious about learning new technologies
-
 * 🌍  I'm based in kerala, India
 * ✉️  You can contact me at [krishnadevv12@gmail.com](mailto:krishnadevv12@gmail.com)
 * 🧠  I'm learning MERN stack developement
